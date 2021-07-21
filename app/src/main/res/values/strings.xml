@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Lista Campeoes LOL</string>
+    <string name="nome" translatable="false">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="email">E-mail</string>
+    <string name="lane">Lane</string>
+    <string name="dano">Dano</string>
+    <string name="range">Range</string>
+    <string name="salvar">Salvar</string>
+    <string name="salvar_campeao">Salvar o campeao</string>
+    <string name="remover">Remover</string>
+</resources>
